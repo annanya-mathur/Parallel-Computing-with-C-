@@ -5,5 +5,10 @@
 **Flynn's Taxonomy classifies parallel computer architecture on the basis of :**
 > **1. Instruction Stream**<br>
 > **2. Data Stream** 
-**Thereby classifying parallel computers into 4 parts:-<hr>
+
+**Thereby classifying parallel computers into 4 parts:-
+> **1. Single Instruction Single Data.**<br>
+> **2. Single Instruction Multiple Data.**<br>
+> **3. Multiple Instruction Single Data.**<br>
+> **4. Multiple Instruction Multiple Data.**<hr>
 
