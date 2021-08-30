@@ -12,5 +12,8 @@
 > **3. Multiple Instruction Single Data.**<br>
 > **4. Multiple Instruction Multiple Data.**<hr>
 # Memory Architecture
-**1. Shared Memory:- **
+**1. Shared Memory:-**
+> **Here all processors access same memory with global address space. Change in the memory by one processor is visible to others. It is further classified into :-**
+   <br> **1) UNIFORM MEMORY ACCESS**
+        **2) NON-UNIFORM MEMORY ACCESS**<br>       
 
