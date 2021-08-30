@@ -4,5 +4,5 @@
 # Flynn's Taxonomy
 **Flynn's Taxonomy classifies parallel computer architecture on the basis of :
 > 1. Instruction Stream
-> 2. Data Stream <hr>
+> 2. Data Stream** <hr>
 
