@@ -3,6 +3,7 @@
 **Parallel programming needs parallel hardware along with multiple processor to execute different parts of the program at the same time .**<hr>
 # Flynn's Taxonomy
 **Flynn's Taxonomy classifies parallel computer architecture on the basis of :**
-> **1. Instruction Stream**
-> **2. Data Stream** <hr>
+> **1. Instruction Stream**<br>
+> **2. Data Stream** 
+**Thereby classifying parallel computers into 4 parts:-<hr>
 
