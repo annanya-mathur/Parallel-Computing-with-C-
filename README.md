@@ -17,5 +17,5 @@
    > **1) UNIFORM MEMORY ACCESS**<br>
    > **2) NON-UNIFORM MEMORY ACCESS**<br> 
  **2. Distributive Memory Access:-**<br>
- **Here each processor has its own local memory , with its own address space.Each processor works independently.<hr>     
+ **Here each processor has its own local memory , with its own address space.Each processor works independently.**<hr>     
 
