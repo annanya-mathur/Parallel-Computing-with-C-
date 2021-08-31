@@ -18,5 +18,12 @@
    > **2) NON-UNIFORM MEMORY ACCESS**<br> 
  
  **2. Distributive Memory Access:-**<br>
- **Here each processor has its own local memory , with its own address space.Each processor works independently.**<hr>     
+ **Here each processor has its own local memory , with its own address space.Each processor works independently.**<hr>  
+ # THREAD
+ **Smaller processes (sub-elememts) within the process working over different task are known as threads. Though thread has independent path of execution but then can only exits as a part of process. **<br>
+ **Threads within a process shares same address space , code and data .**
+ # Inter-process communication
+ > **1. Sockets and pipes.** <br>
+ > **2. Remote procedure calls**<br>
+ > **3. Shared Memory.**<hr>
 
