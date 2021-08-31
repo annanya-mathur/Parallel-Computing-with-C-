@@ -16,6 +16,7 @@
 **Here all processors access same memory with global address space. Change in the memory by one processor is visible to others. It is further classified into :-**
    > **1) UNIFORM MEMORY ACCESS**<br>
    > **2) NON-UNIFORM MEMORY ACCESS**<br> 
+ 
  **2. Distributive Memory Access:-**<br>
  **Here each processor has its own local memory , with its own address space.Each processor works independently.**<hr>     
 
